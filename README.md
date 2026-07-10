@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/45qijl.jpg" width="120" height="120" style="border-radius:50%; object-fit:cover; border:3px solid #00F7FF;" />
+<img src="https://athars.space/uploads/a2a625bf.jpg" width="120" height="120" style="border-radius:50%; object-fit:cover; border:3px solid #00F7FF;" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=170&section=header&text=Alvin%20%E2%80%94%20AlvinnDevv&fontSize=38&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Bot%20%26%20Web%20Developer&descAlignY=58&descSize=16&descColor=B388FF" />
 
